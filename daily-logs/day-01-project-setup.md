@@ -16,33 +16,16 @@ Made sure the SDK folder was at the root and not nested. The `__init__.py` has t
 
 **The wrapper class I built (`src/llm_wrapper.py`):**
 
-The SDK returns tensors and other objects that are annoying to work with directly. I made a thin wrapper that exposes plain Python types instead:
-
-- `wrapper_encode(text: str) -> List[int]` – returns a flat list of token IDs. `.tolist()[0]` flattens the tensor into a list.
-- `wrapper_get_logits_from_input_ids(input_ids: List[int]) -> List[float]` – returns raw logits as a list of floats. Length = vocab size, which for Qwen3-0.6B is around 150k.
-- `wrapper_get_path_to_vocab_file() -> str` – returns the path to the vocab JSON file.
-
-Tested each one with tiny inputs. `wrapper_encode("hello world")` gave me 5 or 6 IDs, not 2 — that's the subword tokenizer splitting things up. Good to see it in action early.
+The SDK returns tensors and other objects that are annoying to work with directly.
+The SDK methods are just encode, get_logits_from_input_ids, and a vocab file path getter — the wrapper passes through to those but hides the tensor types and exposes plain Python lists instead. That makes the rest of the code easier to work with.
 
 **Also:**
 
 Added a `.gitignore` with the usual Python stuff, and explicitly excluded `data/output/` since the subject says not to commit generated output.
 
 **The repo structure right now:**
-"""
-.
-├── llm_sdk/
-│ ├── init.py
-│ ├── pyproject.toml
-│ └── uv.lock
-├── src/
-│ └── llm_wrapper.py
-├── Makefile
-├── pyproject.toml
-├── .python-version
-├── README.md
-└── uv.lock
-"""
+
+The root has the SDK folder, the src folder, the Makefile, pyproject.toml with its lockfile, a python-version file, and the README. Clean and minimal.
 
 **Tomorrow:**
 
