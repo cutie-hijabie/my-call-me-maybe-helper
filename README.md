@@ -32,26 +32,9 @@ Each work session may have its own `.md` file containing a short summary of what
 
 The repository is a **work in progress** and will continue to change as I progress through the project.
 
----
+These are **not** a walkthrough — they're a record of the messy, real process of figuring things out.
 
-# Daily Logs
-
-These are my raw, unfiltered progress logs as I work through Call Me Maybe.
-
-**What you'll find here:**
-
-- The concepts I was stuck on and how I unblocked myself.
-- Mental models that clicked (or broke).
-- Questions I asked myself to debug.
-
-**What you won't find here:**
-
-- Code snippets or complete implementations.
-- The "right" way to do anything.
-
-Use these to see what a learning path *actually* looks like—full of wrong turns, "aha" moments, and late-night realizations.
-
-Your path will be different. That's the point.
+→ [Browse the daily logs](daily-logs/)
 
 ---
 
@@ -77,11 +60,11 @@ I won't be documenting the complete implementation or giving away the exact solu
 
 Some things will intentionally be left vague so that you still have to:
 
-- Research.
-- Read documentation.
-- Understand the concepts.
-- Make your own implementation decisions.
-- Debug your own code.
+* Research.
+* Read documentation.
+* Understand the concepts.
+* Make your own implementation decisions.
+* Debug your own code.
 
 If you're looking for something to copy, this probably isn't the right repository.
 
