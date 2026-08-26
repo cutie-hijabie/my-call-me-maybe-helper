@@ -29,6 +29,7 @@ Tested each one with tiny inputs. `wrapper_encode("hello world")` gave me 5 or 6
 Added a `.gitignore` with the usual Python stuff, and explicitly excluded `data/output/` since the subject says not to commit generated output.
 
 **The repo structure right now:**
+"""
 .
 ├── llm_sdk/
 │ ├── init.py
@@ -41,7 +42,7 @@ Added a `.gitignore` with the usual Python stuff, and explicitly excluded `data/
 ├── .python-version
 ├── README.md
 └── uv.lock
-text
+"""
 
 **Tomorrow:**
 
