@@ -38,22 +38,6 @@ These are **not** a walkthrough — they're a record of the messy, real process 
 
 ---
 
-## 🤖 Prompts
-
-I've included the prompts I use alongside the project documentation for anyone who wants to build a similar learning setup.
-
-### System Overview Prompt
-
-The prompt used to create the system-based overview PDF.
-
-### Learning Assistant Prompt
-
-The prompt used to create the supporting instructions/context for working with the system overview.
-
-The prompts are included as resources, not as requirements. Use them, modify them, or make your own.
-
----
-
 ## 🚫 What You Won't Find Here
 
 I won't be documenting the complete implementation or giving away the exact solutions.
