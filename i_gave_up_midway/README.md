@@ -20,7 +20,7 @@ I am continuing my project logs here from **Day 12 onward**.
 
 The older logs are staying where they are. They are an honest record of the first way I worked through Call Me Maybe, including the confusion, experiments, mistakes, and things I learned along the way.
 
-The logs in this folder document the project after I changed my workflow: what I am trying to make work, what I reuse from the old implementation, what breaks when the pieces are connected, what I fix, and what I understand from it.
+The [logs](daily_logs-2.0/) in this folder document the project after I changed my workflow: what I am trying to make work, what I reuse from the old implementation, what breaks when the pieces are connected, what I fix, and what I understand from it.
 
 ## Later: What Should You Do?
 
