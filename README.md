@@ -1,3 +1,13 @@
+## Update: I Changed the Way I Work on This Project
+
+Midway through Call Me Maybe, I got frustrated with the way I was working. I was making progress, but I kept moving forward, discovering unfinished pieces later, going backwards to fix them, and losing the bigger picture of what I was actually building.
+
+So I changed my workflow. I kept the useful code and everything I had already learned, but I started organizing the remaining work around clear program capabilities with a defined goal and observable result before moving forward. This has been much better for the way I understand the project, define my work, debug problems, and actually see progress.
+
+The original logs are staying here because they are an honest record of how I first worked through the project. My logs after this change continue in the new restart folder.
+
+After I finish the project, I also plan to add a **What Should You Do?** folder containing the corrected, cleaner approach I would recommend with hindsight, instead of rewriting these original logs as if I knew the right path from the beginning.
+
 # Call Me Maybe — Learning Resources
 
 My personal collection of notes, resources, and documentation while working on **Call Me Maybe** at 42.
