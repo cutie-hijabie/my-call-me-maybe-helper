@@ -4,7 +4,7 @@ Midway through Call Me Maybe, I got frustrated with the way I was working. I was
 
 So I changed my workflow. I kept the useful code and everything I had already learned, but I started organizing the remaining work around clear program capabilities with a defined goal and observable result before moving forward. This has been much better for the way I understand the project, define my work, debug problems, and actually see progress.
 
-The original logs are staying here because they are an honest record of how I first worked through the project. My logs after this change continue in the new restart folder.
+The original logs are staying here because they are an honest record of how I first worked through the project. My logs after this change continue in the new [restart folder](i_gave_up_midway/).
 
 After I finish the project, I also plan to add a **What Should You Do?** folder containing the corrected, cleaner approach I would recommend with hindsight, instead of rewriting these original logs as if I knew the right path from the beginning.
 
