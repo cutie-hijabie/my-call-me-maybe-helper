@@ -6,7 +6,9 @@ So I changed my workflow. I kept the useful code and everything I had already le
 
 The original logs are staying here because they are an honest record of how I first worked through the project. My logs after this change continue in the new [restart folder](i_gave_up_midway/).
 
-After I finish the project, I also plan to add a **What Should You Do?** folder containing the corrected, cleaner approach I would recommend with hindsight, instead of rewriting these original logs as if I knew the right path from the beginning.
+After I finish the project, I also plan to add a [**What Should You Do?**](what-should-you-do/) folder containing the corrected, cleaner approach I would recommend with hindsight, instead of rewriting these original logs as if I knew the right path from the beginning.
+
+**folder is added for the ppl whoe are starting the project and want true help** -> [what-should-you-do](what-should-you-do/)
 
 # Call Me Maybe — Learning Resources
 
